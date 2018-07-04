@@ -9,4 +9,5 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 Episode 1 -- Intro
 Episode 2 -- Made the GDD
 Episode 3 -- Git stuff
-Episode 4 -- Commit 04-04 --  Created UE project in repo and added landscape
+Episode 107 -- Commit 04 --  Created UE project in repo and added landscape
+Episode 113 -- Commit 05 -- done with level, learned about level sculpting, level texturing, how to make multicolored flatshaded materials and heightmaps also some GDD stuff ( level gotta contain the tanks so they're in a confined space)
