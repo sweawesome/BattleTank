@@ -9,3 +9,4 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 Episode 1 -- Intro
 Episode 2 -- Made the GDD
 Episode 3 -- Git stuff
+Episode 4 -- Commit 04-04 --  Created UE project in repo and added landscape
