@@ -11,3 +11,4 @@ Episode 2 -- Made the GDD
 Episode 3 -- Git stuff
 Episode 107 -- Commit 04 --  Created UE project in repo and added landscape
 Episode 113 -- Commit 05 -- done with level, learned about level sculpting, level texturing, how to make multicolored flatshaded materials and heightmaps also some GDD stuff ( level gotta contain the tanks so they're in a confined space)
+Episode 119 -- commit 06 -- Added the tank into the level and fixed the location and control of the view.
