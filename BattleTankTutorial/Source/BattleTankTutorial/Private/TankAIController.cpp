@@ -2,7 +2,9 @@
 
 #include "GameFramework/Actor.h"
 #include "Engine/World.h"
+#include "GameFramework/PlayerController.h"
 #include "TankAIController.h"
+
 
 
 void ATankAIController::BeginPlay()
@@ -15,9 +17,9 @@ void ATankAIController::BeginPlay()
 		UE_LOG(LogTemp, Warning, TEXT("AIController not possesing a tank"))
 	else
 		UE_LOG(LogTemp, Warning, TEXT("AI possesing: %s"), *Playertank->GetName())
-
-
 }
+
+
 
 ATank * ATankAIController::GetControlledTank() const
 {
@@ -29,4 +31,5 @@ ATank * ATankAIController::GetPlayerTank() const
 	if (!PlayerPawn) { return nullptr; }
 	return Cast<ATank>(PlayerPawn);
 }
+
 

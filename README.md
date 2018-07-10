@@ -14,3 +14,4 @@ Episode 113 -- Commit 05 -- done with level, learned about level sculpting, leve
 Episode 119 -- commit 06 -- Added the tank into the level and fixed the location and control of the view.
 Episode 126 -- commit 07 -- started c++, parented cpp to blueprints, created UI background text and buttons + moouse and controller support + trialpackaged game.
 Episode 131 -- commit 08 -- Learned about vertial and override, polymorphic functions and operators (overloading) Started to create AI.
+Episode 135 -- commit 09 -- Set up tickcomponent in tankplayercontroller, Created template functions and variables for playercontroller,calculated the viewportsize and where our crosshair is, logged out the direction the crosshair is looking at in real-time.
